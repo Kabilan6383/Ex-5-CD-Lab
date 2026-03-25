@@ -3,7 +3,7 @@ RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Date:25/02/2026
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
-# ALGORITHM
+# ALGORITHM:
 1.	Start the program.
 2.	Write a program in the vi editor and save it with .l extension.
 3.	In the lex program, write the translation rules for the variables a and b.
@@ -70,8 +70,8 @@ void yyerror(const char *msg) {
 
 ```
 
-# OUTPUT
+# OUTPUT:
 <img width="853" height="564" alt="image" src="https://github.com/user-attachments/assets/5458c8dc-f1dd-42f1-86ef-9bdec22fe020" />
 
-# RESULT
+# RESULT:
 The YACC program to recognize the grammar anb where n>=10 is executed successfully and the output is verified.
